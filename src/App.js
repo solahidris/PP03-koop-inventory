@@ -49,6 +49,7 @@ function App() {
             >
               VENDOR
             </button>
+            <p className="text-center">maybe revisit later 7/7/23 - solah</p>
           </div>
         </div>
       )}
@@ -121,28 +122,35 @@ function App() {
                 </div>
               ))}
             </div>
-            
+
             <div className="flex justify-center mt-5">
               <p className="font-bold underline">Adjust Quantity</p>
             </div>
             <div className="flex justify-center mt-5">
               <div className="mr-5 flex flex-col">
-              <input placeholder="dropdown choose item" className="bg-stone-100/80 border-stone-500/50 border-2 hover:bg-stone-100 p-[0.2rem] rounded-lg"></input>
-              <label className="text-sm italic">Current Quantity: 10</label>
+                <input
+                  placeholder="dropdown choose item"
+                  className="bg-stone-100/80 border-stone-500/50 border-2 hover:bg-stone-100 p-[0.2rem] rounded-lg"
+                ></input>
+                <label className="text-sm italic">Current Quantity: 10</label>
               </div>
               <div>
-              <div></div>
+                <div></div>
                 <div className="flex">
-                
-                  <button className="flex-grow bg-red-600 hover:bg-red-700 text-white mr-1 px-[0.8rem] py-[0.2rem] font-bold text-lg rounded-lg">-</button>
-                  <button className="flex-grow bg-green-600 hover:bg-green-700 text-white px-[0.8rem] py-[0.2rem] font-bold text-lg rounded-lg">+</button>
+                  <button className="flex-grow bg-red-600 hover:bg-red-700 text-white mr-1 px-[0.8rem] py-[0.2rem] font-bold text-lg rounded-lg">
+                    -
+                  </button>
+                  <button className="flex-grow bg-green-600 hover:bg-green-700 text-white px-[0.8rem] py-[0.2rem] font-bold text-lg rounded-lg">
+                    +
+                  </button>
                 </div>
-                <button class="bg-sky-500 hover:bg-sky-700 rounded-full text-white px-5 py-2 mt-1 text-sm font-bold">Save changes</button>
+                <button class="bg-sky-500 hover:bg-sky-700 rounded-full text-white px-5 py-2 mt-1 text-sm font-bold">
+                  Save changes
+                </button>
               </div>
             </div>
-
           </div>
-          
+
           <button
             value="home"
             onClick={pageNavigationHandler}
