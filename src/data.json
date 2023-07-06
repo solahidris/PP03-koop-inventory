@@ -1,0 +1,130 @@
+[
+  {
+    "vendorName": "Cafe Coop",
+    "items": [
+      {
+        "itemName": "3 in 1 Nescafe (Kopi-O)",
+        "price": "RM1.50"
+      },
+      {
+        "itemName": "3 in 1 Nescafe (Original)",
+        "price": "RM1.50"
+      },
+      {
+        "itemName": "3 in 1 Nescafe (Mild)",
+        "price": "RM1.50"
+      },
+      {
+        "itemName": "3 in 1 Nescafe (White)",
+        "price": "RM1.50"
+      },
+      {
+        "itemName": "Maggi Hot Cup (Kari)",
+        "price": "RM3.00"
+      },
+      {
+        "itemName": "Maggi Hot Cup (Asam Laksa)",
+        "price": "RM3.00"
+      },
+      {
+        "itemName": "Maggi Hot Cup (Tom Yam)",
+        "price": "RM3.00"
+      },
+      {
+        "itemName": "Telur Masak Separuh",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Roti Bakar",
+        "price": "RM1.50"
+      }
+    ]
+  },
+  {
+    "vendorName": "Coop Kota",
+    "items": [
+      {
+        "itemName": "Air Mineral",
+        "price": "RM1.00"
+      },
+      {
+        "itemName": "Air Kotak (Umum)",
+        "price": "RM1.30"
+      },
+      {
+        "itemName": "Air Kotak (Milo)",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Air Kotak (Yogurt)",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Air Kotak (Susu)",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Air Kotak (Hershey's)",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Kek Batik",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Keropok Segera",
+        "price": "RM2.00"
+      },
+      {
+        "itemName": "Sandwich",
+        "price": "RM2.50"
+      },
+      {
+        "itemName": "Sosej",
+        "price": "RM3.00"
+      },
+      {
+        "itemName": "Dorayaki",
+        "price": "RM2.00"
+      }
+    ]
+  },
+  {
+    "vendorName": "Cg Zubaidah Hayat",
+    "items": [
+      {
+        "itemName": "Nasi Lemak",
+        "price": "RM2.00"
+      }
+    ]
+  },
+  {
+    "vendorName": "Cg Hafiq",
+    "items": [
+      {
+        "itemName": "Bihun Sup",
+        "price": "RM4.50"
+      },
+      {
+        "itemName": "Mee Kari",
+        "price": "RM4.50"
+      },
+      {
+        "itemName": "Mee Goreng",
+        "price": "RM2.50"
+      },
+      {
+        "itemName": "Kue Tiaw",
+        "price": "RM2.50"
+      },
+      {
+        "itemName": "Nasi Goreng",
+        "price": "RM2.50"
+      },
+      {
+        "itemName": "Spageti",
+        "price": "RM3.00"
+      }
+    ]
+  }
+]
